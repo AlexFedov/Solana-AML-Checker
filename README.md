@@ -6,6 +6,8 @@ License: MIT
 🌟 Repository Description
 This demo showcases a simplified Anti-Money Laundering (AML) checker for Solana transactions. It includes mock risk analysis (blacklists, large transfers) and serves as an educational example. The full-featured version is available via @AMLSol_bot on Telegram.
 
+👉 [@AMLSol_bot](https://t.me/AMLSol_bot) (Telegram bot with real-time analysis)
+
 🚀 Features
 ✅ Basic address blacklisting
 
@@ -17,7 +19,7 @@ This demo showcases a simplified Anti-Money Laundering (AML) checker for Solana 
 
 📦 Installation
 bash
-git clone https://github.com/yourusername/Solana-AML-Checker.git
+git clone https://github.com/AlexFedov/Solana-AML-Checker.git
 cd solana-aml-checker-demo
 pip install requests  # Only dependency for this demo
 🛠 Usage
